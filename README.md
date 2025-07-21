@@ -1,5 +1,5 @@
 # IntoTheWilderness
-Repo that describes the colors that make up the InToTheWilderness color scheme.
+Repo that describes the colors that make up the IntoTheWilderness color scheme.
 
 ## COLORS
 
