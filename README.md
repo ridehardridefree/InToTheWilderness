@@ -6,34 +6,34 @@ Repo that describes the colors that make up the InToTheWilderness color scheme.
 ### Trees
 | Name            | Color     |
 | --------------- | -------   |
-| superBrightTree | `#e6eac9` |
-| brightTree      | `#d8e653` |
-| regularTree     | `#a7b90d` |
-| dullTree        | `#94926b` |
-| darkTree        | `#526221` |
-| superDarkTree   | `#323c14` |
-| ultraDarkTree   | `#171C00` |
-| deadTree        | `#b35c2f` |
-| lightDeadTree   | `#d9ab94` |
+| superBrightTree |![superBrightTree](images/superBrightTree.png)|
+| BrightTree      |![BrightTree](images/BrightTree.png) |
+| regularTree     |![regularTree](images/regularTree.png) |
+| dullTree        |![dullTree](images/dullTree.png) |
+| darkTree        |![darkTree](images/darkTree.png) |
+| superDarkTree   |![superDarkTree](images/superDarkTree.png) |
+| ultraDarkTree   |![ultraDarkTree](images/ultraDarkTree.png) |
+| deadTree        |![deadTree](images/deadTree.png) |
+| lightDeadTree   |![lightDeadTree](images/lightDeadTree.png) |
 ### Moss                 
 | Name            | Color     |
 | --------------- | -------   |
-| brightMoss      | `#b8a644` |
-| regularMoss     | `#ab903f` |
-| dullMoss        | `#887818` |
-| darkMoss        | `#785e2d` |
-| superDarkMoss   | `#00200B` |
+| brightMoss      | ![brightMoss](images/brightMoss.png) |
+| regularMoss     |![regularMoss](images/regularMoss.png) |
+| dullMoss        |![dullMoss](images/dullMoss.png) |
+| darkMoss        |![darkMoss](images/darkMoss.png) |
+| superDarkMoss   |![superDarkMoss](images/superDarkMoss.png) |
 ### Rocks                
 | Name            | Color     |
 | --------------- | -------   |
-| brightRock      | `#c8c4c1` |
-| regularRock     | `#757678` |
-| darkRock        | `#48494b` |
-| superDarkRock   | `#273137` |
+| brightRock      |  ![brightRock](images/brightRock.png)|
+| regularRock     |  ![regularRock](images/regularRock.png)|
+| darkRock        |  ![darkRock](images/darkRock.png)|
+| superDarkRock   |  ![superDarkRock](images/superDarkRock.png)|
 ### Dirt                 
 | Name            | Color     |
 | --------------- | -------   |
-| dirt            | `#8c7264` |
+| dirt            |  ![dirt](images/dirt.png)|
 
 ## LINKS
 This section will contain links to my themes for individual apps.
