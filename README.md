@@ -7,7 +7,7 @@ Repo that describes the colors that make up the InToTheWilderness color scheme.
 | Name            | Color     |
 | --------------- | -------   |
 | superBrightTree |![superBrightTree](images/superBrightTree.png)|
-| BrightTree      |![BrightTree](images/BrightTree.png) |
+| brightTree      |![brightTree](images/brightTree.png) |
 | regularTree     |![regularTree](images/regularTree.png) |
 | dullTree        |![dullTree](images/dullTree.png) |
 | darkTree        |![darkTree](images/darkTree.png) |
